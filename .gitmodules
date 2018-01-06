@@ -1,0 +1,3 @@
+[submodule "pocketsphinx"]
+	path = pocketsphinx
+	url = git@github.com:brijmohan/pocketsphinx.git
